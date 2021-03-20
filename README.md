@@ -1,2 +1,2 @@
 # BTN103-Project
-Ping pong game - python - bat themed 
+Ping pong game - python - Batman V/S Joker themed 
