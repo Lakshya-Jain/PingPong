@@ -1,4 +1,4 @@
-# BTN103-Project
+# Ping pong
 Ping pong game - python - Batman V/S Joker themed 
 
 This was my first try towards Python programming. 
